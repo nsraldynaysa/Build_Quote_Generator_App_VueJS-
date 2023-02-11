@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+        "category": "Naruto",
+        "author": "Madara",
+        "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg" 
+    },
+    {
+        "id": 2,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kahlil_Gibran_1913.jpg/238px-Kahlil_Gibran_1913.jpg" 
+    },
+    {
+        "id": 3,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://th.bing.com/th/id/OIP.RMqgRbIFlIs7rco9OofqwAAAAA?pid=ImgDet&w=400&h=300&rs=1" 
+    },
+    {
+        "id": 4,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nizar_qabbani_01.jpg/258px-Nizar_qabbani_01.jpg" 
+    },
+    {
+        "id": 5,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Bernard_Shaw_1936.jpg/239px-George_Bernard_Shaw_1936.jpg" 
+    },
+    {
+        "id": 6,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_%28cropped%29.jpg/280px-%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_%28cropped%29.jpg" 
+    },
+    {
+        "id": 7,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg/206px-Steve_Jobs_Headshot_2010-CROP2.jpg" 
+    },
+    {
+        "id": 8,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B4%D9%82%D9%8A%D8%B1%D9%8A_05.png/280px-%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B4%D9%82%D9%8A%D8%B1%D9%8A_05.png" 
+    },
+    {
+        "id": 9,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/264px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg" 
+    },
+    {
+        "id": 10,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae debitis est",
+          "category": "Naruto",
+          "author": "Madara",
+          "avtar_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/251px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" 
+    }
+]
